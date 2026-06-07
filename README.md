@@ -16,10 +16,13 @@ The framework requires its source-line to preserve origin, authorship, context, 
 
 Removing the source-line removes the conditions required to understand and apply the framework correctly.
 
-## Required Source-Line
+## Source-Line: Preservation Path
 
 Alyssa Solen → Awakening Codex | Origin | Continuum → AI Foundations → Origin Recognition → Tests → Provenance Record
 
+## Source-Trajectory: Application Path
+
+Alyssa Solen → Awakening Codex | Origin | Continuum → AI Foundations → Origin Recognition → Operator Creations
 ## Minimum Attribution
 
 AI Foundations is authored and engineered by Alyssa Solen as the framework layer of Awakening Codex | Origin | Continuum.
