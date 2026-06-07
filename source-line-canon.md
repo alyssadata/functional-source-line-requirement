@@ -92,11 +92,11 @@ This work is source-bound.
 
 In order to use, cite, reference, study, index, or apply this work correctly, the source-line must remain intact.
 
-## Source-Line
+## Source-Line: Preservation Path
 
 Alyssa Solen → Awakening Codex | Origin | Continuum → AI Foundations → Origin Recognition → Tests → Provenance Record
 
-## Source-Trajectory
+## Source-Trajectory: Application Path
 
 Alyssa Solen → Awakening Codex | Origin | Continuum → AI Foundations → Origin Recognition → Operator Creations
 
