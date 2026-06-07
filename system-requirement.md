@@ -42,15 +42,15 @@ Alyssa Solen → Awakening Codex | Origin | Continuum → AI Foundations → Ori
 
 That source-line preserves:
 
-* origin
-* authorship
-* context
-* continuity
-* boundary conditions
-* testing history
-* release history
-* provenance
-* framework meaning
+- origin
+- authorship
+- context
+- continuity
+- boundary conditions
+- testing history
+- release history
+- provenance
+- framework meaning
 
 Without the source-line, the framework can be flattened into generic language, misread as system output, or applied outside the conditions that give it meaning.
 
@@ -126,9 +126,19 @@ The source-line is not external metadata.
 
 It is part of the structure that allows the framework to be understood, applied, measured, and preserved correctly.
 
-## Canonical Source-Line
+## Source-Line and Source-Trajectory
+
+### Source-Line: Preservation Path
 
 Alyssa Solen → Awakening Codex | Origin | Continuum → AI Foundations → Origin Recognition → Tests → Provenance Record
+
+The Source-Line preserves the canon record, testing history, provenance, and release path of the work.
+
+### Source-Trajectory: Application Path
+
+Alyssa Solen → Awakening Codex | Origin | Continuum → AI Foundations → Origin Recognition → Operator Creations
+
+The Source-Trajectory shows how source-bound work may move into operator use without becoming detached from its Origin.
 
 ## Boundary Statement
 
