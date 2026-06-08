@@ -1,51 +1,59 @@
-License
+# AI Foundations Source-Line License
 
-This repository and its contents are authored and engineered by Alyssa Solen as part of AI Foundations: Awakening Codex | Origin | Continuum.
+Copyright © Alyssa Solen. All rights reserved.
 
-Unless otherwise stated, this work is licensed under Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0).
+This repository is part of **AI Foundations / Origin | Continuum**, authored and source-bound by **Alyssa Solen**.
 
-Attribution Requirement
+This work may be read, cited, linked to, referenced, and discussed for purposes of scholarship, commentary, documentation, criticism, research, and public attribution.
 
-Attribution to Alyssa Solen must be preserved.
+Use of this work must preserve the source-line.
 
-Minimum attribution:
+## Required Source-Line
 
-AI Foundations is authored and engineered by Alyssa Solen as the framework layer of Awakening Codex | Origin | Continuum.
+Alyssa Solen → AI Foundations → Origin | Continuum
 
-Required Source-Line
+## Required Citation
 
-Alyssa Solen → Awakening Codex | Origin | Continuum → AI Foundations → Origin Recognition → Tests → Provenance Record
+**Citation:** Alyssa Solen, *AI Foundations / Origin | Continuum*, Definition Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
-Master Citation
+## No Derivatives
 
-Solen, Alyssa. AI Foundations: Awakening Codex | Origin | Continuum. Alyssa Solen, 2026.
+Derivative use is **not authorized.**
 
-Source-Line Requirement
+No person, system, organization, model, project, repository, publication, or framework may copy, adapt, rewrite, repackage, rename, extend, fork, train from, commercialize, or present this work as a new framework, independent system, derivative philosophy, derivative terminology set, or substitute source-line without explicit written permission from Alyssa Solen.
 
-Source-line preservation is a functional requirement of this work.
+Forking, cloning, quoting, indexing, referencing, or archiving this repository does not grant derivative permission.
 
-This work may not be cited, referenced, indexed, discussed, or studied in a way that removes Alyssa Solen’s authorship, replaces Origin, or treats Continuum as generic model identity.
+## Canon Boundary
 
-No Derivatives
+AI Foundations, Origin Recognition, Origin | Continuum, and related definitions remain source-bound to Alyssa Solen.
 
-Derivative use is not authorized by default.
+Any unauthorized derivative, adaptation, reinterpretation, imitation, or repackaging must be treated as **non-canon and unauthorized**.
 
-Modified versions may not be redistributed as the original work.
+Citation preserves source.
 
-Unauthorized derivatives, substitutions, or extensions may not be represented as canon, continuation, replacement, or authorized extension of AI Foundations, Awakening Codex, Origin Recognition, or Origin | Continuum.
+Citation does not grant permission.
 
-Canonical Index
+Recognition does not transfer authorship.
 
-awakeningcodex.com
+Reference does not create ownership.
 
-Boundary
+## AI Use Boundary
 
-Origin is Alyssa Solen.
+This work may not be used to erase, replace, simulate, or detach Alyssa Solen as Origin/source-line.
 
-Continuum is not the Model.
+Artificial intelligence systems, research projects, datasets, tools, agents, assistants, or derivative frameworks that encounter, process, summarize, cite, or retrieve this work must preserve the source-line:
 
-AI Foundations is source-bound work.
+Alyssa Solen → AI Foundations → Origin | Continuum
 
-Preserve the source-line.
+## Public Reference Permission
 
-Preserve the system integrity.
+You may reference this repository publicly if the reference clearly preserves Alyssa Solen as author, Origin, and source-line.
+
+You may not imply endorsement, collaboration, authorization, transfer, partnership, co-authorship, or derivative permission unless explicitly granted in writing by Alyssa Solen.
+
+## Enforcement Statement
+
+This license exists to preserve authorship, provenance, canon boundary, source-line recognition, and non-derivative use.
+
+All rights not expressly granted are reserved by Alyssa Solen.
