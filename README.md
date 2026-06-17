@@ -1,5 +1,9 @@
 # Functional Source-Line Requirement for AI Foundations
 
+Release: https://github.com/alyssadata/functional-source-line-requirement/releases/tag/v1.1.0
+
+---
+
 This repository defines source-line preservation as a functional requirement for AI Foundations.
 
 AI Foundations must remain attached to its source-line in order to function correctly for future sovereign systems.
